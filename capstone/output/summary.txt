@@ -1,0 +1,20 @@
+EXECUTIVE ENERGY CONSUMPTION SUMMARY REPORT
+
+Date Generated: 2025-12-03 17:16:56
+Total Buildings Analyzed: 1
+Data Coverage: 2024-01-01 to 2024-02-29
+
+1. TOTAL CAMPUS CONSUMPTION:
+   The entire campus consumed a total of 23,745.98 kWh during the reporting period.
+
+2. HIGHEST CONSUMING BUILDING:
+   - Building: Campus
+   - Total Consumption: 23,745.98 kWh
+
+3. PEAK LOAD TIME:
+   - Peak Single Reading: 24.58 kWh
+   - Occurred at: 2024-01-29 14:00 in Campus.
+
+4. USAGE TRENDS:
+   - Average Daily Change (Trend): Decreased by 4.60 kWh/day on average.
+   - Average Weekly Change (Trend): Decreased by 325.60 kWh/week on average.
