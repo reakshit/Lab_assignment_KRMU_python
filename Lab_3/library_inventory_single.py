@@ -1,5 +1,4 @@
-# library_inventory_single.py
-# Combined single-file Library Inventory Manager
+
 import json, logging, sys
 from pathlib import Path
 
